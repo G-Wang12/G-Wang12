@@ -14,7 +14,6 @@ I'm a student at the **University of Waterloo** studying **Computer Science and 
 - 🌐 [Portfolio Website](https://gordon-wang-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gordon-wang-ab785b237/)
 - 💻 [GitHub](https://github.com/G-Wang12)
-- 📫 gordonwang0608@gmail.com
 
 ---
 
