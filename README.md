@@ -2,7 +2,6 @@
 
 I'm a student at the **University of Waterloo** studying **Computer Science and Finance**, passionate about building scalable software and solving meaningful problems at the intersection of tech and finance.
 
-- 🧠 4.0 GPA | 📍 Based in Toronto/Waterloo  
 - 🧑‍💻 Incoming SWE Intern @ **Microsoft** (Summer 2025)  
 - 🚀 SWE Intern @ **Shopify** (Winter 2025)  
 - 💼 Backend, frontend, and data experience across startups, scale-ups, and enterprise  
