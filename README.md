@@ -18,7 +18,11 @@ I'm a student at the **University of Waterloo** studying **Computer Science and 
 
 ## 🧪 Recent Experiences
 
-### 💡 Shopify — Software Engineering Intern *(Jan 2025 - Present)*
+### 💡 Microsoft — Software Engineer Intern *(May 2025 - present)*
+> **C++**
+- Azure File Storage Team 🗂️
+
+### 💡 Shopify — Software Engineering Intern *(Jan 2025 - Apr 2025)*
 > **React Native | React | Ruby on Rails | GraphQL**
 
 - 🏆 Won internal hackathon → promoted to ship production AI-podcast app for over 1M users.
