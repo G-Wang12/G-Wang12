@@ -11,7 +11,6 @@ I'm a student at the **University of Waterloo** studying **Computer Science and 
 
 - 🌐 [Portfolio Website](https://gordon-wang-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gordon-wang-ab785b237/)
-- 💻 [GitHub](https://github.com/G-Wang12)
 
 ---
 
@@ -71,7 +70,6 @@ I'm a student at the **University of Waterloo** studying **Computer Science and 
 
 ## 📈 Currently Working On
 
-- 📱 AI Podcast App (React Native) with Shopify
 - ⚙️ Real-time IoT backend with Java Spring Boot
 - 🧪 Prototyping side projects in React, TypeScript & Python
 
