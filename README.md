@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Gordon Wang
 
-I'm a student at the **University of Waterloo** studying **Computer Science and Finance**, passionate about building scalable software and solving meaningful problems at the intersection of tech and finance.
-
-- 🧑‍💻 Previous SWE Intern @ **Microsoft** & **Shopify**
-- 💼 Distributed Systems and Full-stack experience across big tech  
+I'm a student at the **University of Waterloo** studying **Computer Science and Finance**, with previous SWE Internships @ **Point72**, **Microsoft**, and **Shopify**
 
 ---
 
 ## 🔗 Connect with Me
 
-- 🌐 [Portfolio Website](https://gordon-wang-portfolio.vercel.app/)
+- 🌐 [Portfolio Website](https://g-wang.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gordon-wang-ab785b237/)
 
 ---
 
 ## 🧪 Recent Experiences
+
+### 💡 Point72 — Software Engineer Intern *(June 2026 - August 2026)*
+> **C#**
+- Securities Financing Tech
 
 ### 💡 Microsoft — Software Engineer Intern *(May 2025 - August 2025)*
 > **C++**
