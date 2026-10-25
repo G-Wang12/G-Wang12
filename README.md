@@ -63,20 +63,5 @@ I'm a student at the **University of Waterloo** studying **Computer Science and 
 
 ---
 
-## 📈 Currently Working On
-
-- ⚙️ Real-time IoT backend with Java Spring Boot
-- 🧪 Prototyping side projects in React, TypeScript & Python
-
----
-
-## 🧠 Fun Facts
-
-- 🧾 Finance geek who invests time *and* money into the markets  
-- 🎓 CFM student blending tech with financial intuition  
-- ⚽🏈🥋 Big sports player and fan
-
----
-
 Thanks for stopping by — feel free to reach out!
 
